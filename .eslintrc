@@ -12,6 +12,8 @@
     "plugin:prettier/recommended",
   ],
 
+  "plugins": ["simple-import-sort"],
+
   "rules": {
     "prettier/prettier": ["error", { "endOfLine": "auto" }],
   },
