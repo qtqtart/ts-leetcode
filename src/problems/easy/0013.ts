@@ -21,3 +21,5 @@ const romanToInt = (string: string) => {
 
   return count;
 };
+
+export default romanToInt;

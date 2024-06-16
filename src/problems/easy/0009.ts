@@ -3,3 +3,5 @@ const isPalindrome = (number: number) => {
 
   return string === [...string].reverse().join("");
 };
+
+export default isPalindrome;
